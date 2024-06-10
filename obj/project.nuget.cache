@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E6/cMJYwPYA=",
+  "dgSpecHash": "MxgjjNJIfMY=",
   "success": true,
   "projectFilePath": "/home/juanjose/python/python_dll/python_dll.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/juanjose/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.6/microsoft.netcore.app.host.win-x64.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
