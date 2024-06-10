@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("python_dll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c971133bbb081922e1ab0e943c6d07a2fcce20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79605acfa153008d16ce9085d1817659960415e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("python_dll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("python_dll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

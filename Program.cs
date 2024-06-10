@@ -39,8 +39,9 @@ public class Program{
       }
     }
     else{ // default value.
-
-      application.SetValue(717); // using SetValue mehtod.
+      System.Console.WriteLine("Usage: \n  >>python_dll.exe 2 3 | output=6 \n  >>python_dll.exe 2   | output=2");
+      application.SetValue(0); // using SetValue mehtod.
+      System.Environment.Exit(1);
     }
     var myValue = application.GetValue(); // using GetValue method.
     var output = application.Multiply(mult);
