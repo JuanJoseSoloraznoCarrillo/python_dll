@@ -2,6 +2,7 @@
 /home/juanjose/python/python_dll/obj/Debug/net8.0/python_dll.AssemblyInfoInputs.cache
 /home/juanjose/python/python_dll/obj/Debug/net8.0/python_dll.AssemblyInfo.cs
 /home/juanjose/python/python_dll/obj/Debug/net8.0/python_dll.csproj.CoreCompileInputs.cache
+/home/juanjose/python/python_dll/obj/Debug/net8.0/python_dll.sourcelink.json
 /home/juanjose/python/python_dll/bin/Debug/net8.0/python_dll
 /home/juanjose/python/python_dll/bin/Debug/net8.0/python_dll.deps.json
 /home/juanjose/python/python_dll/bin/Debug/net8.0/python_dll.runtimeconfig.json
