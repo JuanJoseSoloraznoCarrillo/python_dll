@@ -1,1 +1,3 @@
-dotnet build --arch x86 --os win python_dll.csproj
+#on linux:
+>$ dotnet build --arch x86 --os win python_dll.csproj
+
