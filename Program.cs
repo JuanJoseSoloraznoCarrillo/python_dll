@@ -1,4 +1,12 @@
-﻿using System;
+﻿/** 
+  Author: Solorzano, Juan Jose
+  Date: 2024-09-15
+  Description: This is a simple program that uses a library written in C#.
+  This program is used to create a .dll file that can be used in a python program.
+  The program uses a library called libApp that has a class called MainJClass.
+*/
+
+using System;
 using libApp; //libApp namespace using as a library.
 
 //Main. Program used as a Main file executable.
